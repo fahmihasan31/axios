@@ -115,6 +115,15 @@ class Gallery extends Component {
           cover:
             "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-2860984/gramedia_bumi---new-cover_full02.jpg",
         },
+        {
+          isbn: "Z",
+          judul: "Bumi",
+          penulis: "Tere Liye",
+          penerbit: "CV Nusa Bangsa",
+          harga: 70000,
+          cover:
+            "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//101/MTA-2860984/gramedia_bumi---new-cover_full02.jpg",
+        }
       ],
       action: "",
       isbn: "",
